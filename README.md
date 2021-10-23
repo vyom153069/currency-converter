@@ -13,4 +13,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <img src="https://i.postimg.cc/cHbmhQKz/Capture.png" width=500>
 </p>
 
-
+## Issues
+To raise specific issues, bugs, or feature requests use [this link](https://github.com/vyom153069/currency-converter).
