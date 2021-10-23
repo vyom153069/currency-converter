@@ -5,6 +5,7 @@ https://convertcurrency.netlify.app/
 
 ## Description
 
+This application is useful for currency conversion.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Screenshot
