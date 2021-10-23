@@ -1,6 +1,6 @@
 # Currency Convertor
 
-A Currency convertor app.
+A Currency convertor app. Click on the link to check this out - 
 https://convertcurrency.netlify.app/
 
 ## Description
